@@ -2,16 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/Administrateur/AjouterEmploye.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/Administrateur/ListEmployer.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/hamamspa/SelectionnerReservation.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/hamamspa/MettreAjourChambre.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/hamamspa/Login.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/hamamspa/RechercheChambre.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/hamamspa/DépartInformations.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/hamamspa/AjouterClient.java</file>
-            <file>file:/C:/Users/rochdi/Documents/NetBeansProjects/HamamSpa/src/Administrateur/AjouterProduit.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
